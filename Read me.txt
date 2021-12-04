@@ -1,0 +1,10 @@
+OpenCV based project 
+detect and recognize the faces
+
+
+requirments 
+OpenCV
+Python 
+Face_recognition
+
+jupyter notebook 
