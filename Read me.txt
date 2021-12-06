@@ -1,10 +1,13 @@
-OpenCV based project 
-detect and recognize the faces
+OpenCV based project, This main aim of this project is too detect and recognize the faces which are already save in project file. 
 
 
-requirments 
+How does it works: 
+To run this projecct on your system first you have to change the path and also change the name the names according to your requirements. 
+Second create a folder on your system and add the images you want to recognize and name them the way name they are named in the program. 
+Requirments:
 OpenCV
 Python 
 Face_recognition
 
-jupyter notebook 
+Enviornment: 
+Jupyter notebook 
